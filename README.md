@@ -21,7 +21,7 @@ with four ICs connected to pins on the back of the instrument.
 
 ![hp5480-view](/media/connections.jpg "The instrument in operation")
 
-This repository contains the following:
+An explanation of the code and how it is used is the following:
 
 	ctl5480/	: Remote-control program for the 5480.
 			  Interactive terminal/line-at-a-time program to be run from a unix shell.
