@@ -1,6 +1,14 @@
 # hp5480-controller
 A project for a controller to advance statistical analysis by a Hewlett-Packard 5480 DSO
 
+## Background
+
+This instrument was manufactured by Hewlett-Packard in the years 1968 - 1974.
+
+![hp5480-view](/media/mview.jpg "The instrument in operations")
+
+More details forthcoming.
+
 ## What is in here
 
 This repository contains the following:
