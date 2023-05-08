@@ -22,7 +22,7 @@ This repository contains the following:
 
 	HP5480Adapter.pdf	: Schematic of adapter to interface between the 5480 and controller-host (RPi or other suitable).
 
-My redrawing of the HP schematics may or may not be useful to you. I did that while deriving some functional sense of the design in the absence of the Th-of-Op manual. If you're going between the HP schematics and my schematics you may find the renaming of symbol names annoying, but that, again, was to bring some functional clarity to things. I eventually arrived at breaking the internal system control down to a hierarchy of:
+My redrawing of the HP schematics may or may not be useful. I did that while deriving some functional sense of the design in the absence of the Theory of Operation manual. If you're going between the HP schematics and my schematics you may find the renaming of symbol names annoying, but that, again, was to bring some functional clarity to things. I eventually arrived at breaking the internal system control down to a hierarchy of:
 
 	1. function selection
 	2. function execution control
