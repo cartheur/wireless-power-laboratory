@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/cartheur/hp5480-controller)](https://github.com/cartheur/hp5480-controller/blob/main/LICENSE)
+
 # hp5480-controller
 A project for a controller to advance statistical analysis by a Hewlett-Packard 5480 DSO
 
