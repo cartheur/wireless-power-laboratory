@@ -7,11 +7,19 @@ A project for a controller to advance statistical analysis by a Hewlett-Packard 
 
 This instrument was manufactured by Hewlett-Packard in the years 1968 - 1974.
 
-![hp5480-view](/media/view.jpg "The instrument in operations")
+![hp5480-view](/media/view.jpg "The instrument in operation")
 
 More details forthcoming.
 
-## What is in here
+## The controller
+
+In order to test and diagnose the capabilities of the instrument, it is necessary to construct a controller from a raspberry-pi and a plug-board
+
+![hp5480-view](/media/controller.jpg "The instrument in operation")
+
+with four ICs connected to pins on the back of the instrument.
+
+![hp5480-view](/media/connections.jpg "The instrument in operation")
 
 This repository contains the following:
 
