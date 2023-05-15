@@ -13,7 +13,7 @@ More details forthcoming.
 
 ## The controller
 
-In order to test and diagnose the capabilities of the instrument, it is necessary to construct a controller from a raspberry-pi and a plug-board
+In order to test and diagnose the capabilities of the instrument, it is necessary to construct a controller from a raspberry-pi and a plug-board. The parts required are obtainable from Mouser.
 
 ![hp5480-view](/media/controller.jpg "The instrument in operation")
 
