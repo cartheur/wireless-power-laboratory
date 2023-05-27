@@ -9,7 +9,7 @@ This instrument was manufactured by Hewlett-Packard in the years 1968 - 1974.
 
 ![hp5480-view](/media/view.jpg "The instrument in operation")
 
-More details forthcoming. Soon. Enough.
+More details forthcoming. Soon. Enough. Certainly.
 
 ## The controller
 
