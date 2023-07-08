@@ -4,7 +4,7 @@
 A project for a controller to advance statistical analysis by a Hewlett-Packard 5480 DSO
 
 # 141S analyzer restoration
-A project to complete a laboratory exploration into unknown physics territory. Fraught with danger to be sure. [Here -> 141S.](/141S/)
+A project to complete a laboratory exploration into unknown physics territory. Fraught with danger to be sure. [Here -> 141S.](/141S/README.md)
 
 ## Background
 
