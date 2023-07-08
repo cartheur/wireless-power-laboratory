@@ -3,6 +3,9 @@
 # hp5480-controller
 A project for a controller to advance statistical analysis by a Hewlett-Packard 5480 DSO
 
+# 141S analyzer restoration
+A project to complete a laboratory exploration into unknown physics territory. Fraught with danger to be sure. [Here -> 141S.](/media/view.jpg "The instrument in operation")
+
 ## Background
 
 This instrument was manufactured by Hewlett-Packard in the years 1968 - 1974.
