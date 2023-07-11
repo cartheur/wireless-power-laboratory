@@ -8,4 +8,4 @@ An idea is to leverage this unit with its companion gear:
 * 5245L Electronic Counter
 * 5263A Programmable Time Base
 
-To measure field quantities on the surfaces of coils.
+To measure field quantities on the surfaces of coils. And other interesting tasks. But is bloody hot and these little space heaters make the laboratory environment less tenable.
