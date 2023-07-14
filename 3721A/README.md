@@ -10,3 +10,8 @@ An idea is to leverage this unit with its companion gear:
 * 5267A Programmable Voltmeter
 
 To measure field quantities on the surfaces of coils. And other interesting tasks. But is bloody hot and these little space heaters make the laboratory environment less tenable. And this is a substantive thing. It certain is the thing to do. We can determine this that this is so.
+
+## Project notes
+
+14.07.2023
+    845: Into the A15 board and found a flaw in the 5V supply. It was working when I started but adjusting the voltage for the other settings caused the 5V supply to fail.
