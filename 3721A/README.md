@@ -15,3 +15,4 @@ To measure field quantities on the surfaces of coils. And other interesting task
 
 14.07.2023
     845: Into the A15 board and found a flaw in the 5V supply. It was working when I started but adjusting the voltage for the other settings caused the 5V supply to fail.
+    855: Both 5245L units are in need of repair before they can be useful. I can still continue on with the planning.
