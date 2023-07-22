@@ -9,6 +9,9 @@ A storage spectrum analyzer compliments the laboratory nicely. Learning about st
 # 3721A correlator repair
 Advancing into statistical signal analysis. Worked (mostly) upon arrival but low-power board has issues. [Here -> 3721A.](/3721A/README.md)
 
+# 3722A noise generator
+Worked beautifully on arrival and drives the statistical signal aspect pillar. Has the ability to be remotely controlled on one's own TTL board. [Here -> 3722A.](/3722A/README.md)
+
 # 5245L electronic counter repair
 Verifying and not trusting that all signals are getting through. Also need to calibrate the 3721A. [Here -> 5245L.](/5245L/README.md)
 
