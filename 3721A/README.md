@@ -18,3 +18,6 @@ To measure field quantities on the surfaces of coils. And other interesting task
     855: Both 5245L units are in need of repair before they can be useful. I can still continue on with the planning.
 15.07.2023
     854: New parts have been planned for various projects. The requirement is that the laboratory is running to meet experimental expectations. Hence the 8414B is out for investigation. At this point, the operation indicator shifts quickly to maximum gain once the plug-in is connected via the cable.
+22.07.2023
+    1928: Traced-out possible broken parts from the 8414B (Multivibrator) 2N3440 (x2) and the 3721A Zener diode 6v8. Original has breakdown at 6.65v. Next to do the counter and then an order can be placed. Diodes on eBay so will take awhile.
+    
