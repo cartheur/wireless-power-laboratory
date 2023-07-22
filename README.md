@@ -9,6 +9,9 @@ A storage spectrum analyzer compliments the laboratory nicely. Learning about st
 # 3721A correlator repair
 Advancing into statistical signal analysis. Worked (mostly) upon arrival but low-power board has issues. [Here -> 3721A.](/3721A/README.md)
 
+# 5245L electronic counter repair
+Verifying and not trusting that all signals are getting through. Also need to calibrate the 3721A. [Here -> 5245L.](/5245L/README.md)
+
 # 8414B polar display repair
 The 8407A with the 8412A Phase-Amplitude Display works very well. Now to add the ability to see impedence behaviour via polar coordinates. [Here -> 8414B.](/8414B/README.md)
 
