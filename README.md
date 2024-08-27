@@ -1,7 +1,7 @@
 [![GitHub license](https://img.shields.io/github/license/cartheur/hp5480-controller)](https://github.com/cartheur/hp5480-controller/blob/main/LICENSE)
 
 # hp5480 Memory Display
-A project for a controller to advance statistical analysis by a Hewlett-Packard 5480 DSO
+A project for a controller to advance statistical analysis by a Hewlett-Packard 5480 DSO.
 
 # 141S analyzer restoration
 A storage spectrum analyzer compliments the laboratory nicely. Learning about strict-hardware implementations of measurement. [Here -> 141S.](/141S/README.md)
